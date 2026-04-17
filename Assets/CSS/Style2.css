@@ -1,0 +1,27 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+      background-color: rgb(226, 168, 43);
+      /* en proceso */
+      /* display: grid;
+      grid-template-columns: auto 1fr ;
+      align-items: center;
+      gap: 5px;  */
+    }
+    h2{
+        margin: auto;
+        font-weight: bold;
+    }
+    nav{
+        margin: auto;
+    }
+    .logoNav{
+        border-radius: 20px;
+        width: 50vh;
+    }
+    .logoNav:hover{
+        /* para que se agrande un 11% al pasar el cursor. */
+        transform: scale(1.05); 
+    }

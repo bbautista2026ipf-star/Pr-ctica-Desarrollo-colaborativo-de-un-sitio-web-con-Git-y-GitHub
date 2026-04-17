@@ -1,0 +1,63 @@
+/* LOGO */
+
+#LOGO {
+  width: 200px;
+  height: auto;
+}
+
+body {
+  background-color: rgb(227, 226, 221);
+}
+
+/* HEADER */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+/* Lista */
+nav ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  padding: 2cm;
+}
+
+nav a {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  padding: 8px 16px;
+  text-decoration: none;
+  color: #333;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+nav a:hover {
+  opacity: 0.4;
+}
+
+/* Parrafos */
+
+/* Titulos  */
+h1 {
+  font-family: "georgia", sans-serif;
+  padding: 5px;
+  text-align: center;
+  margin-top: 20px;
+  padding: 2cm;
+}
+
+h2 {
+  font-family: "georgia", sans-serif;
+  text-align: center;
+  margin-top: 20px;
+  padding: 5px;
+}
+
+/* Footer / Pie de pagina */
+footer {
+  background-color: #953131;
+  color: rgb(68, 24, 24);
+  text-align: center;
+  padding: 10px;
+}

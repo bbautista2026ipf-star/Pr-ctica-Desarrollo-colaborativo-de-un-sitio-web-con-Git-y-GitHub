@@ -83,6 +83,46 @@ nav a:hover {
 }
 
 
+/* Seccion 2 */
+.banner2 {
+  display: flex;
+  min-height: 300px;
+}
+.banner-content2 {
+  flex: 2;
+}
+.banner-content2 a {
+  display: block;
+  width: 100px;
+  height: 100px;
+}
+.banner-content2 img {
+  width: 700px;
+  height: 700px;
+  object-fit: cover;
+  display: block;
+  padding: 20px;
+}
+.banner2-texto-container {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+.banner-texto2 {
+  color: #000000;
+  font-size: 4.4em;
+  font-weight: bold;
+  text-align: center;
+}
+.banner-texto3 {
+  color: #16441d;
+  font-size: 2em;
+  text-align: center;
+}
+
 
 /* Footer / Pie de pagina */
 footer {

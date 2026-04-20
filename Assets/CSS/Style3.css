@@ -7,3 +7,9 @@ max-width: 800px; /* Evita que las líneas de texto sean eternas */
 margin: 0 auto; /* Centra todo el cuerpo de la página */
 padding: 20px;
 }
+main h2{
+color: rgb(190, 6, 43);
+}
+main h3{
+color:#16441d ;
+}

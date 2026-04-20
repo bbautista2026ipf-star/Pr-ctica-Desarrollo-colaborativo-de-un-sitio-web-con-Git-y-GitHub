@@ -90,6 +90,9 @@ EVIDENCIAS: Commits a nivel local
 
 <img width="1347" height="683" alt="image" src="https://github.com/user-attachments/assets/c84ab883-7dd5-4ce2-83f0-bcb89be07d3d" />
 <img width="1346" height="514" alt="image" src="https://github.com/user-attachments/assets/e5e64b08-dacd-411b-a0f6-cb9b7ef5c0f7" />
+<img width="459" height="499" alt="image" src="https://github.com/user-attachments/assets/04ccf207-60de-4b21-a9a1-6b9b69eaa98c" />
+<img width="500" height="496" alt="image" src="https://github.com/user-attachments/assets/28213730-42a5-41c4-a992-1998cf839336" />
+
 
 
 

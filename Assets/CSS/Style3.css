@@ -60,3 +60,15 @@ font-family: Georgia, serif;
 margin: 0;
 white-space: nowrap;
 }
+
+.contenedor-imagen {
+display: flex; /* Activamos Flexbox */
+justify-content: center; /* Centra la imagen horizontalmente */
+margin: 20px 0; /* Da un poco de espacio arriba y abajo del texto */
+}
+.contenedor-imagen img {
+max-width: 100%;
+height: auto;
+width: 50%;
+}
+

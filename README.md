@@ -60,5 +60,38 @@ Nuestro sitio web se desarrolla desde la perspetiva de una cafeteria la cual se 
 
 - Permite el desarrollo colaborativo.
 - Permite eficiencia a la hora de desarrollar nuevas funcionalidades en un proyecto sin arriesgar versiones anteriores.
-- Permite coordinar y asignar determinadas tareas. 
+- Permite coordinar y asignar determinadas tareas.
+
+
+<br> </br>
+<br> </br>
+
+EVIDENCIAS: Commits a nivel local
+
+# Perlo Marcos
+<img width="907" height="524" alt="image" src="https://github.com/user-attachments/assets/0a930d21-fae4-4b33-a9c1-e4435b3125dc" />
+<img width="734" height="291" alt="image" src="https://github.com/user-attachments/assets/a713bcf8-4712-4f19-8bde-03a9c1e2feb5" />
+
+<br> </br>
+
+# Menotti Luciana
+<img width="956" height="540" alt="image" src="https://github.com/user-attachments/assets/b1cf5241-3120-4f5d-86cf-84bfa1902d27" />
+<img width="926" height="539" alt="image" src="https://github.com/user-attachments/assets/7ec5b205-c920-44d8-b2fd-96467b7b3de9" />
+<img width="953" height="545" alt="image" src="https://github.com/user-attachments/assets/a4a02da5-cd2c-49a3-abf0-2f5d6a4233a5" />
+<img width="908" height="526" alt="image" src="https://github.com/user-attachments/assets/32974f6c-80b6-436c-87a2-27462404df12" />
+<img width="966" height="538" alt="image" src="https://github.com/user-attachments/assets/60997aa3-99fb-4e78-b249-ed65c56eeb4c" />
+
+
+
+
+<br> </br>
+
+# Berenfeld Bautista
+
+<img width="1347" height="683" alt="image" src="https://github.com/user-attachments/assets/c84ab883-7dd5-4ce2-83f0-bcb89be07d3d" />
+<img width="1346" height="514" alt="image" src="https://github.com/user-attachments/assets/e5e64b08-dacd-411b-a0f6-cb9b7ef5c0f7" />
+
+
+
+
 

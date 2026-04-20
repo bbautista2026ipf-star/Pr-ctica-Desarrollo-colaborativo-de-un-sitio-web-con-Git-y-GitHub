@@ -1,5 +1,9 @@
-header{
-    background-color: rgb(227, 226, 221);
-
-
+body {
+margin: 0;
+padding: 0;
+}
+main {
+max-width: 800px; /* Evita que las líneas de texto sean eternas */
+margin: 0 auto; /* Centra todo el cuerpo de la página */
+padding: 20px;
 }

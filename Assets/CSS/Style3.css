@@ -72,3 +72,12 @@ height: auto;
 width: 50%;
 }
 
+footer{
+display: grid;
+background-color: #16441d;
+color: rgb(227, 226, 221);
+grid-template-columns:1fr 1fr ;
+padding: 20px;
+align-items: center;
+}
+
